@@ -1,1 +1,1 @@
-worker: python import_openai.py
+worker: python import　openai.py
